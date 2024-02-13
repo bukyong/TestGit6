@@ -29,3 +29,4 @@ staged 상태 : 관리 대상이면서 이력 상태를 저장한 경우 (commit
   git config --global user.name "Your Name"
 
 Q. 테스트 작업 중 (커밋 메세지 생성)
+테스트1
